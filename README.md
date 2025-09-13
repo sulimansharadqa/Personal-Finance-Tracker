@@ -137,5 +137,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Suliman Sharadgah - sulimansharadqa@gmail.com
 
-Project Link: [https://github.com/sulimansharadqa/finance-tracker](https://github.com/sulimansharadqa/finance-tracker)
+Project Link: [https://financetrackerss.netlify.app/](https://financetrackerss.netlify.app/)
+
 
