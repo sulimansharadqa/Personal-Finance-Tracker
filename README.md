@@ -57,7 +57,7 @@ You only need a modern web browser that supports localStorage and ES6 JavaScript
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/finance-tracker.git
+   git clone https://github.com/sulimansharadqa/Personal-Finance-Tracker.git
    ```
 
 2. Navigate to the project directory:
@@ -138,5 +138,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Suliman Sharadgah - sulimansharadqa@gmail.com
 
 Project Link: [https://financetrackerss.netlify.app/](https://financetrackerss.netlify.app/)
+
 
 
