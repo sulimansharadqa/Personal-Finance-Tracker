@@ -7,7 +7,7 @@
 
 A comprehensive Personal Finance Tracker web application built with vanilla JavaScript, HTML, and CSS. This application helps you manage your income and expenses, set budgets, and visualize your spending patterns with a clean, modern interface.
 
-![Screenshot of the application](https://via.placeholder.com/800x450?text=Personal+Finance+Tracker+Screenshot)
+![Screenshot of the application](https://raw.githubusercontent.com/sulimansharadqa/Personal-Finance-Tracker/refs/heads/main/Finance-icon.png)
 
 ## ✨ Features
 
@@ -138,3 +138,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Suliman Sharadgah - sulimansharadqa@gmail.com
 
 Project Link: [https://github.com/sulimansharadqa/finance-tracker](https://github.com/sulimansharadqa/finance-tracker)
+
