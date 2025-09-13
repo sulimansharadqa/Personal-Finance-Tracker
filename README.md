@@ -62,7 +62,7 @@ You only need a modern web browser that supports localStorage and ES6 JavaScript
 
 2. Navigate to the project directory:
    ```bash
-   cd finance-tracker
+   cd Personal-Finance-Tracker
    ```
 
 3. Open the `index.html` file in your web browser:
@@ -138,6 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Suliman Sharadgah - sulimansharadqa@gmail.com
 
 Project Link: [https://financetrackerss.netlify.app/](https://financetrackerss.netlify.app/)
+
 
 
 
